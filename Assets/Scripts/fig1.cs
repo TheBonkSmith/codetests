@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Chapter1Fig1 : MonoBehaviour
+public class fig1 : MonoBehaviour
 {
 
     private float xspeed = .03F;
